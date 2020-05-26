@@ -1,1 +1,1 @@
-This file creates a set of unique values that are then made in a self implemented extensible hashing table.
+This file creates a set of unique values that are then placed into a self implemented extensible hashing table.
